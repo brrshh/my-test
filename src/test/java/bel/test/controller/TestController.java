@@ -11,6 +11,6 @@ public class TestController {
 
     @RequestMapping("/")
     String home() {
-        return "Hello , it is home page";
+        return "Hello , it is home page of TEST BRANCH";
     }
 }
